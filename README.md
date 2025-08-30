@@ -24,5 +24,4 @@ This Java program models two restaurants (Wendy’s and Outback) using object-or
 - `Outback.java` – Outback restaurant class  
 ## How to Run
 ```bash
-javac RestaurantApp.java Wendy.java Outback.java
-java RestaurantApp
+Compile in IntelliJ run Restaurant App.
